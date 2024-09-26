@@ -59,7 +59,7 @@ def roll_dice(dice, sides):
 """Dictionary for dice face values"""
 DICE_ART_DICT = {
     1: (
-        "┌───────r─┐",
+        "┌───────-─┐",
         "│         │",
         "│    ●    │",
         "│         │",
